@@ -1,5 +1,5 @@
-name: pefince (personal finance)
-description: personal finance manager android app
+# pefince (personal finance)
+## description: personal finance manager android app
 
 
 
